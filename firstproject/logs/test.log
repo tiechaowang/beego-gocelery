@@ -1,0 +1,6 @@
+2020/01/07 10:05:37.272 [I] [asm_amd64.s:1357]  http server Running on http://:8080
+2020/01/07 10:05:37.292 [I] [asm_amd64.s:1357]  http server Running on http://:8080
+2020/01/07 10:05:37.293 [C] [asm_amd64.s:1357]  ListenAndServe:  listen tcp :8080: bind: address already in use
+2020/01/07 10:05:39.117 [I] [asm_amd64.s:1357]  http server Running on http://:8080
+2020/01/07 10:05:39.121 [I] [asm_amd64.s:1357]  http server Running on http://:8080
+2020/01/07 10:05:39.122 [C] [asm_amd64.s:1357]  ListenAndServe:  listen tcp :8080: bind: address already in use
